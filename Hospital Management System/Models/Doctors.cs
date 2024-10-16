@@ -16,5 +16,9 @@ namespace Hospital_Management_System.Models
         public string AvailableTime {  get; set; }
         public decimal ConsultationFee {  get; set; }
         public DateTime JoiningDate { get; set; }
+        public ICollection<Appointments> Appointments { get; set; }
+        public ICollection<Departments> Departments { get; set; }
+
+
     }
 }

@@ -17,5 +17,8 @@ namespace Hospital_Management_System.Models
         public string AppointmentTime { get; set; }
         public string AppointmentStatus {  get; set; }
         public string ResonForVisit { get; set; }
+        public Billing Billing { get; set; }
+        public ICollection<MedicalRecords> MedicalRecords { get; set; }
+
     }
 }

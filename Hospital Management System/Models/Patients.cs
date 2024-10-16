@@ -18,5 +18,9 @@ namespace Hospital_Management_System.Models
         public string BloodGroup {  get; set; }
         public DateTime RegistrationDate { get; set; }
         public string MedicalHistory { get; set; }
+        public ICollection<Appointments> Appointments { get; set; }
+        public ICollection<MedicalRecords> MedicalRecords { get; set; }
+
+
     }
 }
