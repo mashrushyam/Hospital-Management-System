@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hospital_Management_System
 build_property.RootNamespace = Hospital_Management_System
@@ -17,3 +25,207 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Appointments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Appointments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Billings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Billings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Billings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Billings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Billings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Doctors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/MedicalRecords/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/MedicalRecords/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/MedicalRecords/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/MedicalRecords/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/MedicalRecords/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Staffs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Staffs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Staffs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Staffs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Staffs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/TestReports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFJlcG9ydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/TestReports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFJlcG9ydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/TestReports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFJlcG9ydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/TestReports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFJlcG9ydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/TestReports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFJlcG9ydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shyam Mashru/My Projects/Hospital Management System/Hospital Management System/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
