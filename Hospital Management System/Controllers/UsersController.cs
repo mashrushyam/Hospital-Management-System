@@ -10,6 +10,8 @@ using Hospital_Management_System.Models;
 
 namespace Hospital_Management_System.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class UsersController : Controller
     {
         private readonly ApplicationDBContext _context;

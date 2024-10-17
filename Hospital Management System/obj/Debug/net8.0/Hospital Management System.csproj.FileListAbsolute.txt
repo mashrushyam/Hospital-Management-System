@@ -265,3 +265,9 @@ D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management Syste
 D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.RazorAssemblyInfo.cache
 D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.RazorAssemblyInfo.cs
+D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\HMSFrontend\angular.json
+D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\HMSFrontend\package-lock.json
+D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\HMSFrontend\package.json
+D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\HMSFrontend\tsconfig.app.json
+D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\HMSFrontend\tsconfig.json
+D:\Shyam Mashru\My Projects\Hospital Management System\Hospital Management System\bin\Debug\net8.0\HMSFrontend\tsconfig.spec.json
